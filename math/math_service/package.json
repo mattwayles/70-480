@@ -1,0 +1,17 @@
+{
+  "name": "math_service",
+  "version": "0.0.0",
+  "description": "A simple web service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: No Test Specified\\\" && exit 1"
+  },
+  "author": "Matthew Wayles",
+  "license": "ISC",
+  "private": true,
+  "dependencies": {
+	"formidable": "1.x",
+	"express": "4.x",
+	"math_example_mwayles": "1.x"
+	}
+}

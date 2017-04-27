@@ -1,0 +1,9 @@
+{
+  "name": "hello-visual-studio-for-win7",
+  "version": "0.0.0",
+  "description": "HelloVisualStudioForWin7",
+  "main": "app.js",
+  "author": {
+    "name": "mwayles"
+  }
+}

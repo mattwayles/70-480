@@ -1,0 +1,79 @@
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\csc.exe
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\csc.exe.config
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\csc.rsp
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\csi.exe
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\csi.rsp
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\System.AppContext.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\System.IO.FileSystem.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\vbc.exe
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\vbc.exe.config
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\vbc.rsp
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\VBCSCompiler.exe
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll.config
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbprojResolveAssemblyReference.cache
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+c:\users\mwayles\documents\visual studio 2017\Projects\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\ContosoWeb\obj\Debug\WebCalculator.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\ContosoWeb\obj\Debug\WebCalculator.xml
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\ContosoWeb\obj\Debug\WebCalculator.pdb
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\csc.exe
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\csc.exe.config
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\csc.rsp
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\csi.exe
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\csi.rsp
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\System.AppContext.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\vbc.exe
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\vbc.exe.config
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\vbc.rsp
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\VBCSCompiler.exe
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll.config
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\WebCalculator.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\WebCalculator.pdb
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\WebCalculator.xml
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbprojResolveAssemblyReference.cache
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.Resources.resources
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.vbproj.GenerateResource.Cache
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.dll
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.xml
+C:\Users\mwayles\Desktop\node_samples\Chapter 8 Ex. 1\WebCalculatorSolution\WebCalculator\obj\Debug\WebCalculator.pdb

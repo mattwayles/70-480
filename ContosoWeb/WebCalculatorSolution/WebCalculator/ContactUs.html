@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link href="Content/default.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.1.1.js"></script>
+    <title>Contact Us</title>
+</head>
+<body>
+    <div id="container">
+        <header>
+            <hgroup id="headerText">
+                <h1>Tapestry Solutions, Inc.</h1>
+                <h2>Your success equals our success</h2>
+            </hgroup>
+        </header>
+        <nav>
+            <a href="#">Home</a>
+        </nav>
+        <div role="main">
+            <div id="contactUs">
+                <form name="contactForm" method="get">
+                    <div>
+                        <label for="firstName">First Name:</label>
+                        <input type="text" id="firstname" name="firstName" required="required" />
+                    </div>
+                    <div>
+                        <label for="lastName">Last Name:</label>
+                        <input type="text" id="lastName" name="lastName" required="required" />
+                    </div>
+                        <label for="eMail">E-Mail Address:</label>
+                        <input type="email" id="eMail" name="eMail" required="required" />
+                    <div>
+                        <label for="message">Message:</label>
+                        <textarea id="message" name="message" required="required" ></textarea>
+                    </div>
+                    <div>
+                        <button type="submit" id="submit" name="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+        <aside><p>Advertisements</p></aside>
+        <footer><p>Copyright &copy; 2017 Tapestry Solutions, Inc., All Rights Reserved</p></footer>
+    </div>
+</body>
+</html>
